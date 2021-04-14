@@ -1,0 +1,17 @@
+
+[
+    {
+        "Name":"Genel Kültür 1",
+        "Questions":[
+            {"Name":"En büyük gçl",
+            "Answer":"Van"}
+        ]
+    },
+    {
+        "Name":"Genel Kültür 2",
+        "Questions":[
+            {"Name":"En büyük gçl",
+            "Answer":"Van"}
+        ]
+    }
+]
