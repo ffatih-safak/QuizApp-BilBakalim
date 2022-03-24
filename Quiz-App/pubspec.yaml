@@ -36,8 +36,9 @@ flutter_icons:
   cupertino_icons: ^0.1.3
   “flutter_launcher_icons: ^0.7.5”
   marquee: ^1.7.0
-  http: ^0.13.0 
-  splashscreen: ^1.3.5
+  #http: ^0.13.0 
+  #splashscreen: ^1.3.5
+  # http and scren comment  The following adds the Cupertino Icons font to your application.
   loading: ^1.0.2
   flutter_spinkit: "^4.1.2"
   
